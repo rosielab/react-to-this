@@ -9,14 +9,14 @@ function App() {
         Behaviors
       </h>
       <br></br>
-      <pi>
+      <h2>
         Chuxuan Zhang, Bermet Burkanova, Lawrence H. Kim, Lauren Yip, Ugo
         Cupcic, Stephane Lallee, and Angelica Lim
-      </pi>
-      <h3>
+      </h2>
+      <h4>
         School of Computing Science, Simon Fraser University, Burnaby, BC,
         Canada
-      </h3>
+      </h4>
 
       <ul class="nav-list">
         <li>
@@ -52,7 +52,7 @@ function App() {
 
       <div id="tables">
         <h3>TABLE I</h3>
-        <pi>CHARACTER SPECIFIC INTERACTIVE BEHAVIORS</pi>
+        <h2>CHARACTER SPECIFIC INTERACTIVE BEHAVIORS</h2>
         <table>
           <thead>
             <tr>
@@ -103,10 +103,10 @@ function App() {
           </tbody>
         </table>
         <h3>TABLE II</h3>
-        <pi>
+        <h2>
           NONVERBAL BEHAVIORS THAT WERE INITIATED BY THE AGENT AND MIMICKED BY
           THE PARTICIPANTS
-        </pi>
+        </h2>
         <table>
           <thead>
             <tr>
@@ -141,11 +141,11 @@ function App() {
           </tbody>
         </table>
         <h3>TABLE III</h3>
-        <pi>
+        <h2>
           73 NONVERBAL HUMAN BEHAVIORS INITIATED BY THE PARTICIPANTS TO TEST THE
           AGENT’S PHYSICAL ABILITIES, GROUPED INTO 7 CATEGORIES. ”;” SEPARATES
           DIFFERENT BEHAVIORS.
-        </pi>
+        </h2>
         <table>
           <thead>
             <tr>
@@ -225,13 +225,13 @@ function App() {
           </tbody>
         </table>
         <h3>TABLE IV</h3>
-        <pi>
+        <h2>
           34 NONVERBAL HUMAN BEHAVIORS INITIATED BY THE PARTICIPANTS TO TEST THE
           AGENT’S EMOTIONAL ABILITIES, GROUPED INTO 9 CATEGORIES. ’,’ IS SPLITS
           ONE BEHAVIOR INTO SMALLER UNITS TO INCREASE THE CLARITY OF THE ACTION
           DESCRIPTIONS. ”;” SEPARATES DIFFERENT BEHAVIORS. COMPOUND BEHAVIORS
           ARE LABELED IN BOLD.
-        </pi>
+        </h2>
         <table>
           <thead>
             <tr>
@@ -303,13 +303,13 @@ function App() {
         </table>
 
         <h3>TABLE V</h3>
-        <pi>
+        <h2>
           82 NONVERBAL HUMAN BEHAVIORS INITIATED BY THE PARTICIPANTS TO TEST THE
           AGENT’S SOCIAL ABILITIES, GROUPED INTO 42 CATEGORIES. ’,’ SPLITS ONE
           BEHAVIOR INTO SMALLER UNITS TO INCREASE THE CLARITY OF THE BEHAVIOR
           DESCRIPTIONS. ”;” SEPARATES DIFFERENT BEHAVIORS. COMPOUND BEHAVIORS
           ARE LABELED IN BOLD
-        </pi>
+        </h2>
 
         <table>
           <thead>

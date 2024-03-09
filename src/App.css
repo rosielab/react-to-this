@@ -83,16 +83,24 @@ h {
 h2 {
   font-size: 1rem; /* Increase the font size */
   font-weight: 400;
-  line-height: 2;
-  margin: 0 0 1rem 0;
+  line-height: 1.5;
+  margin: 1 rem 1 rem;
   color: #000000;
-  font-family: "Open Sans", sans-serif;
+  text-align: left;
+  font-family: "huboti", sans-serif;
 }
+
 
 h3 {
   font-family: "urania-h3", sans-serif;
   text-align: left;
 }
+
+h4 {
+  font-family: "hubot", sans-serif;
+  text-align: center;
+}
+
 p {
   font-size: 1rem; /* Increase the font size */
   font-weight: 400;
@@ -103,15 +111,7 @@ p {
   font-family: "hubot", sans-serif;
 }
 
-pi {
-  font-size: 1rem; /* Increase the font size */
-  font-weight: 400;
-  line-height: 1.5;
-  margin: 1 rem 1 rem;
-  color: #000000;
-  text-align: left;
-  font-family: "huboti", sans-serif;
-}
+
 
 @font-face {
   font-family: "urania";
@@ -139,7 +139,7 @@ td {
   border: 1px solid #ddd;
   padding: 8px;
   text-align: left;
-  font-family: "urania-h3", sans-serif;
+  font-family: "hubot", sans-serif;
 }
 
 th {
