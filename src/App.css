@@ -1,0 +1,147 @@
+.App {
+  text-align: center;
+  margin: 2% 20%;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* BAR STYLING   */
+
+.nav-list {
+  display: flex;
+  align-items: center;
+  font-family: "urania-h3", sans-serif;
+  justify-content: space-between;
+  width: 70%;
+  margin: 0 auto;
+  color: #000000;
+  padding: 0;
+  list-style: none;
+  font-size: 1rem; /* Increase the font size */
+  font-weight: 500;
+}
+/* Update styling for list elements in .nav-list */
+.nav-list li {
+  padding: 15px 20px; /* Adjust padding as needed */
+  border: 2px solid #61dafb; /* Add solid border with the specified color */
+  border-radius: 5px;
+  margin-bottom: 10px; /* Add margin between list items if needed */
+  background-color: #f0f0f0; /* Change background color as desired */
+  color: #000000; /* Change text color as desired */
+  font-family: "urania", sans-serif;
+}
+
+.nav-list li:hover {
+  background-color: #61dafb; /* Change background color on hover */
+  color: #000000;
+}
+
+/* TEXT STYLING */
+
+h {
+  font-size: 2.3rem; /* Increase the font size */
+  font-weight: 700;
+  line-height: 1.5;
+  margin: 0 0 1rem 0;
+  color: #61dafb;
+  font-family: "urania", sans-serif;
+}
+
+h2 {
+  font-size: 1rem; /* Increase the font size */
+  font-weight: 400;
+  line-height: 2;
+  margin: 0 0 1rem 0;
+  color: #000000;
+  font-family: "Open Sans", sans-serif;
+}
+
+h3 {
+  font-family: "urania-h3", sans-serif;
+  text-align: left;
+}
+p {
+  font-size: 1rem; /* Increase the font size */
+  font-weight: 400;
+  line-height: 1.5;
+  margin: 0 0 1rem 0;
+  color: #000000;
+  text-align: left;
+  font-family: "hubot", sans-serif;
+}
+
+pi {
+  font-size: 1rem; /* Increase the font size */
+  font-weight: 400;
+  line-height: 1.5;
+  margin: 1 rem 1 rem;
+  color: #000000;
+  text-align: left;
+  font-family: "huboti", sans-serif;
+}
+
+@font-face {
+  font-family: "urania";
+  src: url("urania/HubotSans-Regular.otf") format("OpenType");
+}
+@font-face {
+  font-family: "hubot";
+  src: url("urania/HubotSans-Regular.otf") format("OpenType");
+}
+@font-face {
+  font-family: "huboti";
+  src: url("urania/HubotSans-LightItalic.otf") format("OpenType");
+}
+
+/* ~~ TABLE STYLING ~~ */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+  font-family: "urania-h3", sans-serif;
+}
+
+th {
+  background-color: #f2f2f2;
+}
