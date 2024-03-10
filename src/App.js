@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
@@ -9,10 +8,10 @@ function App() {
         Behaviors
       </h>
       <br></br>
-      <h2>
+      <h5>
         Chuxuan Zhang, Bermet Burkanova, Lawrence H. Kim, Lauren Yip, Ugo
         Cupcic, Stephane Lallee, and Angelica Lim
-      </h2>
+      </h5>
       <h4>
         School of Computing Science, Simon Fraser University, Burnaby, BC,
         Canada
@@ -29,6 +28,10 @@ function App() {
           <a href="#annotations">Annotations</a>
         </li>
       </ul>
+
+      <div id="picture">
+        <img src="characters.png" alt="characters" />
+      </div>
 
       <div id="abstract">
         <h3>ABSTRACT</h3>

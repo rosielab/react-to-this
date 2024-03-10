@@ -55,13 +55,14 @@
 }
 /* Update styling for list elements in .nav-list */
 .nav-list li {
-  padding: 15px 20px; /* Adjust padding as needed */
+  padding: 3% 4%; /* Adjust padding as needed */
   border: 2px solid #61dafb; /* Add solid border with the specified color */
   border-radius: 5px;
   margin-bottom: 10px; /* Add margin between list items if needed */
   background-color: #f0f0f0; /* Change background color as desired */
   color: #000000; /* Change text color as desired */
   font-family: "urania", sans-serif;
+  font-size: x-large;
 }
 
 .nav-list li:hover {
@@ -90,6 +91,15 @@ h2 {
   font-family: "huboti", sans-serif;
 }
 
+h5 {
+  font-size: 1rem; /* Increase the font size */
+  font-weight: 400;
+  line-height: 1.5;
+  margin: 1 rem 1 rem;
+  color: #000000;
+  text-align: center;
+  font-family: "huboti", sans-serif;
+}
 
 h3 {
   font-family: "urania-h3", sans-serif;
@@ -110,8 +120,6 @@ p {
   text-align: left;
   font-family: "hubot", sans-serif;
 }
-
-
 
 @font-face {
   font-family: "urania";
