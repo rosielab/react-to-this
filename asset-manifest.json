@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/react-to-this/static/css/main.6c16d3f6.css",
-    "main.js": "/react-to-this/static/js/main.eeb6fa80.js",
+    "main.css": "/react-to-this/static/css/main.933a9864.css",
+    "main.js": "/react-to-this/static/js/main.2e8aee51.js",
     "static/js/453.83ce88ec.chunk.js": "/react-to-this/static/js/453.83ce88ec.chunk.js",
     "static/media/HubotSans-LightItalic.otf": "/react-to-this/static/media/HubotSans-LightItalic.3aa69f54b1997acebbeb.otf",
     "static/media/HubotSans-Regular.otf": "/react-to-this/static/media/HubotSans-Regular.e3eee218bb1fd2ee3b42.otf",
-    "static/media/logo.svg": "/react-to-this/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-to-this/index.html",
-    "main.6c16d3f6.css.map": "/react-to-this/static/css/main.6c16d3f6.css.map",
-    "main.eeb6fa80.js.map": "/react-to-this/static/js/main.eeb6fa80.js.map",
+    "main.933a9864.css.map": "/react-to-this/static/css/main.933a9864.css.map",
+    "main.2e8aee51.js.map": "/react-to-this/static/js/main.2e8aee51.js.map",
     "453.83ce88ec.chunk.js.map": "/react-to-this/static/js/453.83ce88ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c16d3f6.css",
-    "static/js/main.eeb6fa80.js"
+    "static/css/main.933a9864.css",
+    "static/js/main.2e8aee51.js"
   ]
 }
