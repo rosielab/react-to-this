@@ -19,7 +19,7 @@ function App() {
 
       <ul class="nav-list">
         <li>
-          <a href="#paper">Paper</a>
+          <a href="https://arxiv.org/abs/2409.11602">Paper</a>
         </li>
         <li>
           <a href="#videos">Videos</a>
