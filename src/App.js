@@ -25,7 +25,7 @@ function App() {
           <a href="#videos">Videos</a>
         </li>
         <li>
-          <a href="#annotations">Annotations</a>
+          <a href="https://drive.google.com/drive/u/0/folders/1ZDGlArmld08QO7Ybcin0MR2RjGwY3ihL">Annotations</a>
         </li>
       </ul>
 
