@@ -29,6 +29,12 @@ function App() {
         </li>
       </ul>
 
+      <div>
+        <p style={{ color: 'red' }}>We are currently working on anonimizing video data. To request video with facial expressions, please contact chuxuan_zhang@sfu.ca .</p>
+          
+
+      </div>
+
       <div id="picture">
         <img src="characters.png" alt="characters" />
       </div>
