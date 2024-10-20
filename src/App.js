@@ -22,7 +22,7 @@ function App() {
           <a href="https://arxiv.org/abs/2409.11602">Paper</a>
         </li>
         <li>
-          <a href="#videos">Videos</a>
+          <a href="https://www.youtube.com/watch?v=QRi5o5v_leY">Video</a>
         </li>
         <li>
           <a href="https://drive.google.com/drive/u/0/folders/1ZDGlArmld08QO7Ybcin0MR2RjGwY3ihL">Annotations</a>
@@ -55,7 +55,7 @@ function App() {
 
       <div id="tables">
         <h3>TABLE I</h3>
-        <h2>CHARACTER SPECIFIC INTERACTIVE BEHAVIORS</h2>
+        <h2>Character-Specific Tests</h2>
         <table>
           <thead>
             <tr>
@@ -107,8 +107,7 @@ function App() {
         </table>
         <h3>TABLE II</h3>
         <h2>
-          NONVERBAL BEHAVIORS THAT WERE INITIATED BY THE AGENT AND MIMICKED BY
-          THE PARTICIPANTS
+          Behaviors Mimicked by Participants
         </h2>
         <table>
           <thead>
@@ -145,9 +144,7 @@ function App() {
         </table>
         <h3>TABLE III</h3>
         <h2>
-          73 NONVERBAL HUMAN BEHAVIORS INITIATED BY THE PARTICIPANTS TO TEST THE
-          AGENT’S PHYSICAL ABILITIES, GROUPED INTO 7 CATEGORIES. ”;” SEPARATES
-          DIFFERENT BEHAVIORS.
+          Physical Tests (73)
         </h2>
         <table>
           <thead>
@@ -229,11 +226,7 @@ function App() {
         </table>
         <h3>TABLE IV</h3>
         <h2>
-          34 NONVERBAL HUMAN BEHAVIORS INITIATED BY THE PARTICIPANTS TO TEST THE
-          AGENT’S EMOTIONAL ABILITIES, GROUPED INTO 9 CATEGORIES. ’,’ IS SPLITS
-          ONE BEHAVIOR INTO SMALLER UNITS TO INCREASE THE CLARITY OF THE ACTION
-          DESCRIPTIONS. ”;” SEPARATES DIFFERENT BEHAVIORS. COMPOUND BEHAVIORS
-          ARE LABELED IN BOLD.
+          Emotional Tests (34)
         </h2>
         <table>
           <thead>
@@ -307,11 +300,7 @@ function App() {
 
         <h3>TABLE V</h3>
         <h2>
-          82 NONVERBAL HUMAN BEHAVIORS INITIATED BY THE PARTICIPANTS TO TEST THE
-          AGENT’S SOCIAL ABILITIES, GROUPED INTO 42 CATEGORIES. ’,’ SPLITS ONE
-          BEHAVIOR INTO SMALLER UNITS TO INCREASE THE CLARITY OF THE BEHAVIOR
-          DESCRIPTIONS. ”;” SEPARATES DIFFERENT BEHAVIORS. COMPOUND BEHAVIORS
-          ARE LABELED IN BOLD
+          Social Tests (82)
         </h2>
 
         <table>
