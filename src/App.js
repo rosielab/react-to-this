@@ -1,6 +1,8 @@
 import "./App.css";
 import React from 'react';
 import ReactPlayer from 'react-player';
+import Vid from "./IROS.mp4";
+
 
 function App() {
   return (
@@ -36,9 +38,19 @@ function App() {
         <p style={{ color: 'red' }}>We are currently working on anonimizing video data. To request video with facial expressions, please contact chuxuan_zhang@sfu.ca .</p>
       </div>
 
-      <div className="video">
-        <ReactPlayer url='IROS.mp4' />
-      </div>
+      <ReactPlayer url='https://www.youtube.com/watch?v=QRi5o5v_leY' />
+
+      {/* <div style={{ opacity: isVideoLoaded ? 1 : 0 }}>
+          <ReactPlayer
+            url={Vid}
+            playing={true}
+            controls={true}
+            loop={true}
+            muted={true}
+            playsinline={true}
+            onReady={onLoadedData}
+          />
+      </div> */}
 
       <div id="picture">
         <img src="characters.png" alt="characters" />
