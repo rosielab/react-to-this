@@ -24,7 +24,8 @@ function App() {
           <a href="https://arxiv.org/abs/2409.11602">Paper</a>
         </li>
         <li>
-          <a href="https://www.youtube.com/watch?v=QRi5o5v_leY">Videos</a>
+          <a href="https://www.youtube.com/watch?v=QRi5o5v_leY">Video</a>
+
         </li>
         <li>
           <a href="https://drive.google.com/drive/u/0/folders/1ZDGlArmld08QO7Ybcin0MR2RjGwY3ihL">Annotations</a>
@@ -35,7 +36,7 @@ function App() {
         <p style={{ color: 'red' }}>We are currently working on anonimizing video data. To request video with facial expressions, please contact chuxuan_zhang@sfu.ca .</p>
       </div>
 
-      <div className="App">
+      <div className="video">
         <ReactPlayer url='IROS.mp4' />
       </div>
 
@@ -117,7 +118,8 @@ function App() {
         </table>
         <h3>TABLE II</h3>
         <h2>
-        Behaviors Mimicked by Participants
+
+          Behaviors Mimicked by Participants
         </h2>
         <table>
           <thead>
@@ -153,7 +155,11 @@ function App() {
           </tbody>
         </table>
         <h3>TABLE III</h3>
-        <h2>Physical Tests (73)</h2>
+
+        <h2>
+          Physical Tests (73)
+        </h2>
+
         <table>
           <thead>
             <tr>
@@ -234,7 +240,9 @@ function App() {
         </table>
         <h3>TABLE IV</h3>
         <h2>
+
         Emotional Tests (34)
+
         </h2>
         <table>
           <thead>
@@ -308,7 +316,7 @@ function App() {
 
         <h3>TABLE V</h3>
         <h2>
-        Social Tests (82)
+          Social Tests (82)
         </h2>
 
         <table>
