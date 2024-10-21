@@ -37,7 +37,11 @@ function App() {
         <p style={{ color: 'red' }}>We are currently working on anonimizing video data. To request video with facial expressions, please contact chuxuan_zhang@sfu.ca .</p>
       </div>
 
-      <ReactPlayer url='https://www.youtube.com/watch?v=QRi5o5v_leY'  width="800px" height="450px"/>
+      <div>
+      <ReactPlayer url='https://www.youtube.com/watch?v=QRi5o5v_leY' width="800px" height="450px"/>
+      </div>
+
+      
 
       {/* <div style={{ opacity: isVideoLoaded ? 1 : 0 }}>
           <ReactPlayer
@@ -52,7 +56,7 @@ function App() {
       </div> */}
 
       <div id="picture">
-        <img src="characters.png" alt="characters" style="width:30% height:auto;" />
+        <img src="characters.png" alt="characters" width="1000" />
       </div>
 
       <div id="abstract">
