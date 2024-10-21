@@ -1,7 +1,6 @@
 import "./App.css";
 import React from 'react';
 import ReactPlayer from 'react-player';
-import Vid from "./IROS.mp4";
 
 
 function App() {
