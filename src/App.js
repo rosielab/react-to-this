@@ -56,7 +56,7 @@ function App() {
       </div> */}
 
       <div id="picture">
-        <img src="characters.png" alt="characters" width="1000" />
+        <img src="characters.png" alt="characters" width="1000px" />
       </div>
 
       <div id="abstract">
