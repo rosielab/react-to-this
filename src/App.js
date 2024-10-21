@@ -34,7 +34,7 @@ function App() {
       </ul>
 
       <div>
-        <p style={{ color: 'red' }}>We are currently working on anonimizing video data. To request video with facial expressions, please contact chuxuan_zhang@sfu.ca .</p>
+        <p style={{ color: 'red' }}>We are currently working on anonymizing video data. To request video with facial expressions, please contact chuxuan_zhang@sfu.ca .</p>
       </div>
 
       <div>
@@ -56,7 +56,7 @@ function App() {
       </div> */}
 
       <div id="picture">
-        <img src="characters.png" alt="characters" width="1000px" />
+        <img src="characters.png" alt="characters" width="800px" />
       </div>
 
       <div id="abstract">
@@ -65,17 +65,16 @@ function App() {
           How do people use their faces and bodies to test the interactive
           abilities of a robot? Making lively, believable agents is often seen
           as a goal for robots and virtual agents but believability can easily
-          break down. In this Wizard-of- Oz (WoZ) study, we observed 1169
+          break down. In this Wizard-of-Oz (WoZ) study, we observed 1169
           nonverbal interactions between 20 participants and 6 types of agents.
           We collected the nonverbal behaviors participants used to challenge
-          the characters physically, emotionally, and socially. The partic-
-          ipants interacted freely with humanoid and non-humanoid forms: a
-          robot, a human, a penguin, a pufferfish, a banana, and a toilet. We
-          present a human behavior codebook of 188 unique nonverbal behaviors
-          used by humans to test the virtual characters. The insights and design
-          strategies drawn from video observations and participant interviews
-          aim to help build more interaction-aware and believable robots and
-          agents in the future
+          the characters physically, emotionally, and socially. The participants 
+          interacted freely with humanoid and non-humanoid forms: arobot, a human, 
+          a penguin, a pufferfish, a banana, and a toilet. We present a human 
+          behavior codebook of 188 unique nonverbal behaviors used by humans to test
+          the virtual characters. The insights and design strategies drawn from video
+          observations and participant interviews aim to help build more interaction-
+          aware and believable robots and agents in the future
         </p>
       </div>
 
