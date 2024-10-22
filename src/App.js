@@ -37,9 +37,27 @@ function App() {
         <p style={{ color: 'red' }}>We are currently working on anonymizing video data. To request video with facial expressions, please contact chuxuan_zhang@sfu.ca .</p>
       </div>
 
-      <div>
-      <ReactPlayer url='https://www.youtube.com/watch?v=QRi5o5v_leY' width="800px" height="450px"/>
-      </div>
+      {/* <div style={{
+        position: 'absolute', left: '50%', top: '50%',
+        transform: 'translate(-50%, -50%)'
+        }}>
+      <ReactPlayer url='https://www.youtube.com/watch?v=QRi5o5v_leY' />
+      </div> */}
+
+      <ReactPlayer
+        style={{ width:"100%", height:"100%", objectFit: "cover"  }}
+        url={'https://www.youtube.com/watch?v=QRi5o5v_leY'}
+        controls
+        width="100%"
+        height="auto"
+        config={{
+          file: {
+            attributes: {
+              style: { height: "100%", objectFit: "cover" },
+            },
+          },
+        }}
+    />
 
       
 
