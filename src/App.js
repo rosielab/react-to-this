@@ -43,9 +43,12 @@ function App() {
         }}>
       <ReactPlayer url='https://www.youtube.com/watch?v=QRi5o5v_leY' />
       </div> */}
-
+      
+      <div>
       <ReactPlayer
-        style={{ width:"100%", height:"100%", objectFit: "cover"  }}
+        style={{ width:"150%", height:"100%", 
+          position: 'relative', left: '50%', top: '100%',
+        transform: 'translate(-50%, -50%)',objectFit: "cover"  }}
         url={'https://www.youtube.com/watch?v=QRi5o5v_leY'}
         controls
         width="100%"
@@ -58,6 +61,7 @@ function App() {
           },
         }}
     />
+    </div>
 
       
 
